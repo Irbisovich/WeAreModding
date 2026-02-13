@@ -2,7 +2,7 @@
 WeAreModding! is a APK modifiying program that dumps applications from your phone by ADB (USB debugging).
 
 <h4>Requierements</h4>
-WeAreModding! uses *adb* and *python3*.
+WeAreModding! uses adb and python3.
 
 <h4>Notes</h4>
 Modding function is not implemented right now.
